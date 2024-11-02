@@ -9,3 +9,9 @@ header{
 footer{
     background-color: aquamarine;
 }
+main{ 
+    background-color: beige;
+}
+main p{
+    font-size: 22px;
+}
